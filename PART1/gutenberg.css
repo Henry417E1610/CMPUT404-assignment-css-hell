@@ -1,74 +1,150 @@
-pre {
-    color: greenyellow;
-    text-align: center;
-    font-size: 1rem;
-}
 
-html {
-    background-image: url("images/old.jpg");
-    background-size: 100%;
-}
+    body {
+        margin-left: 10%;
+        margin-right: 10%;
+        background-image: url("images/old.jpg");
+        text-align: justify
+    }
 
-p {
-    font-family: serif;
-}
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+        margin-left: 15%;
+        margin-right: 15%
+    }
 
-.toc {
-    text-align: center;
-    color: bisque;
-}
+    hr {
+        width: 50%;
+        text-align: center
+    }
 
-p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font: bolder;
-    font-size: 1.5rem;
-}
+    p {
+        text-indent: 1em;
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
+        font-size: 1.5em;
+    }
 
-/* https://www.w3schools.com/howto/howto_css_image_center.asp */
-img {
-    padding: 2px;
-    border: 1px solid crimson;
-    border-radius: 10px;
-}
+    p.poem {
+        text-indent: 0%;
+        margin-left: 10%;
+        font-size: 90%;
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
 
-a {
-    color: aqua;
-    font-family: monospace;
-    font-size: 2rem;
-}
+    p.center {
+        text-align: center;
+        text-indent: 0;
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
 
-big {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 3rem;
-}
+    div.fig {
+        display: block;
+        margin: 0 auto;
+        text-align: center
+    }
 
-h1 {
-    text-align: center;
-    font: bold;
-    font-size: 5rem;
-    color: navy;
-}
+    pre {
+        font-style: italic;
+        font-size: 90%;
+        margin-left: 10%
+    }/**/
+    </style>
 
-h2 {
-    text-align: center;
-    text-decoration: underline;
-    color: brown;
-}
+    <style>
+    /**/
+    div.c15 {
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 2em
+    }
 
-h4 {
-    text-align: center;
-     color: plum;
-}
+    ul.c14 {
+        display: block;
+        list-style-type: disc;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 40px
+    }
 
-table {
-    margin-left: auto;
+    li.c13 {
+        display: list-item
+    }
+
+    div.c12 {
+        display: block;
+        font-size: 1.1em;
+        margin: 1em 0;
+        font-weight: bold
+    }
+
+    div.c11 {
+        margin: 0.83em 0;
+        font-size: 1.1em;
+        text-align: center
+    }
+
+    span.c10 {
+        font-size: smaller
+    }
+
+    div.c9 {
+        display: block;
+        margin: 1em 0
+    }
+
+    div.c8 {
+        display: block;
+        margin-top: 4em
+    }
+
+    div.c7 {
+        width: 60%
+    }
+
+    img.c6 {
+        width: 100%
+    }
+
+    div.c5 {
+        margin-top: 2em;
+        margin-bottom: 4em
+    }
+
+    div.c4 {
+        display: block;
+        margin-left: 2em;
+        text-indent: -2em
+    }
+
+    div.c3 {
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 2em;
+        text-indent: -2em
+    }
+
+    div.c2 {
+        display: block;
+        margin: 1em 0
+    }
+
+    div.c1 {
+        text-align: center;
+        font-size: 1.2em;
+        font-weight: bold
+    }/**/
+    
+    a.pginternal{
+    font-size: 1.3em;
+    }
+    
+    table.c1 {
     margin-right: auto;
-}
-
-body {
-    background: rgb(0, 0, 0, 0);
-    color: black;
-    border-radius: 5px;
-    background-size: 100%;
-    padding: 15px;
-}
+    margin-left: auto
+    }
