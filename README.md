@@ -31,8 +31,10 @@ https://www.w3schools.com/colors/colors_names.asp for choosing colors
 
 https://www.sitepoint.com/community/t/simple-two-column-layout-main-content-is-overlapping-sidebar/254806 for fixing overlap issues
 
+https://www.geeksforgeeks.org/css-font-border/ for font border
+
 
 Collaborators' CCID
 ===================
 
-jionghao
+jionghao, jinzhou, xinjian
