@@ -22,3 +22,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+References
+==========
+
+https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp for making sidebar
+
+https://www.w3schools.com/colors/colors_names.asp for choosing colors
+
+https://www.sitepoint.com/community/t/simple-two-column-layout-main-content-is-overlapping-sidebar/254806 for fixing overlap issues
+
+
+Collaborators' CCID
+===================
+
+jionghao
