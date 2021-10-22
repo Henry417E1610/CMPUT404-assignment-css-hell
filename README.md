@@ -29,13 +29,15 @@ Removed stylesheets in html and directed the path to gutenberg.css
 
 Changed background image to an old styled page
 
-Enlarged the font size of the headers (excluding chapter headers in second book)
+Enlarged the font size of the headers (excluding chapter headers in 2.html)
 
-Changed the headers' font into Anglican Text (excluding chapter headers in second book)
+Changed the headers' font into Anglican Text (excluding chapter headers in 2.html)
 
 Enlarged the font size of the page internal parts in Content
 
-Changed the paragraph font into Big Caslon
+Changed the paragraph font into Big Caslon (including chapter headers in 2.html)
+
+Added solid, golden rod border to images in 2.html
 
 
 References
