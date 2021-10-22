@@ -108,7 +108,9 @@
     }
 
     img.c6 {
-        width: 100%
+        width: 100%;
+        border-style: solid;
+        border-color: GoldenRod;
     }
 
     div.c5 {
