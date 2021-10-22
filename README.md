@@ -33,6 +33,8 @@ https://www.sitepoint.com/community/t/simple-two-column-layout-main-content-is-o
 
 https://www.geeksforgeeks.org/css-font-border/ for font border
 
+https://www.cdnfonts.com/anglicantext.font for title font
+
 
 Collaborators' CCID
 ===================

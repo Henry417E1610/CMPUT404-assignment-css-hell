@@ -1,3 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/anglicantext'); 
 
     body {
         margin-left: 10%;
@@ -9,6 +10,8 @@
     h1, h2, h3, h4, h5, h6 {
         text-align: center;
         margin-left: 15%;
+        font-family: 'AnglicanText', sans-serif;
+        font-size: 3em;
         margin-right: 15%
     }
 
@@ -22,6 +25,7 @@
         margin-top: 0.25em;
         margin-bottom: 0.25em;
         font-size: 1.5em;
+        font-family: "Big Caslon"
     }
 
     p.poem {
