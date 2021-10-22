@@ -22,21 +22,39 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Modifications
+=============
+
+Removed stylesheets in html and directed the path to gutenberg.css
+
+Changed background image to an old styled page
+
+Enlarged the font size of the headers (excluding chapter headers in second book)
+
+Changed the headers' font into Anglican Text (excluding chapter headers in second book)
+
+Enlarged the font size of the page internal parts in Content
+
+Changed the paragraph font into Big Caslon
+
+
 References
 ==========
 
-https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp for making sidebar
+https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp for making fixed sidebar
 
 https://www.w3schools.com/colors/colors_names.asp for choosing colors
 
 https://www.sitepoint.com/community/t/simple-two-column-layout-main-content-is-overlapping-sidebar/254806 for fixing overlap issues
 
-https://www.geeksforgeeks.org/css-font-border/ for font border
+https://www.geeksforgeeks.org/css-font-border/ for creating font border
 
-https://www.cdnfonts.com/anglicantext.font for title font
+https://www.cdnfonts.com/anglicantext.font for adjusting title font in part 1
 
 
-Collaborators' CCID
-===================
+Collaborations
+==============
 
-jionghao, jinzhou, xinjian
+Distributed by Renyu He (CCID: renyu)
+
+Collaborators' CCID: jionghao, jinzhou, xinjian
